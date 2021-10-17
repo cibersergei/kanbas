@@ -1,0 +1,84 @@
+{
+	"list": [
+		{
+			"card": [
+				{
+					"color": "khaki",
+					"priority": "no",
+					"text": "Técnica 5 Por qué",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Por qué 1:\n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Por qué 2:\n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Por qué 3:\n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Por qué 4:\n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Por qué 5:\n",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Tecnica Productividad #6"
+					]
+				}
+			]
+		},
+		{
+			"card": [
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "Ejemplo:",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "1. ¿Por qué tuvimos una filtración de datos? Porque no pudimos proteger nuestra información crítica.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "2. ¿Por qué no pudimos proteger nuestra información crítica? Porque usuarios no autorizados accedieron a nuestros sistemas.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "3. ¿Por qué usuarios no autorizados accedieron a nuestros sistemas? Porque nuestros usuarios no utilizan contraseñas seguras.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "4. ¿Por qué nuestros usuarios no utilizan contraseñas seguras? Porque no son conscientes de los riesgos de ciberseguridad.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "5. ¿Por qué nuestros usuarios no son conscientes de los riesgos de ciberseguridad? Porque no tenemos un Programa de Concientización de Seguridad eficaz para todos los usuarios y colaboradores de la Organización.\n",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		}
+	]
+}
