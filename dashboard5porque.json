@@ -5,7 +5,7 @@
 				{
 					"color": "khaki",
 					"priority": "no",
-					"text": "Técnica 5 Por qué",
+					"text": "Completa los 5 Por qué para llegar a la causa raíz del problema:",
 					"todoList": {
 						"task": [
 							{
@@ -37,7 +37,8 @@
 					},
 					"tag": [
 						"Tecnica Productividad #6"
-					]
+					],
+					"colorTag": "5 Por Qué 🔥"
 				}
 			]
 		},
