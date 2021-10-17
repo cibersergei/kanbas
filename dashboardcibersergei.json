@@ -1,0 +1,52 @@
+{
+	"list": [
+		{
+			"card": [
+				{
+					"color": "khaki",
+					"priority": "no",
+					"text": "Esto es una prueba 1",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Actividad 1",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Actividad 2",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Prueba"
+					]
+				},
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "Prueba3",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"card": [
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "Prueba2",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				}
+			]
+		}
+	]
+}
