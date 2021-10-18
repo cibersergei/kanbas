@@ -32,7 +32,7 @@
 					"colorTag": "Prioridades Inicio de la Semana 📌"
 				},
 				{
-					"color": "aquamarine",
+					"color": "hsl(213, 87%, 88%)",
 					"colorTag": "Prioridades Mitad de Semana 📌",
 					"priority": "medium",
 					"text": "**Miércoles**",
@@ -142,10 +142,10 @@
 			]
 		},
 		{
-			"title": "Todo sobre las Tarjeta",
+			"title": "Todo sobre las Tarjetas",
 			"card": [
 				{
-					"color": "hsl(213, 87%, 88%)",
+					"color": "aquamarine",
 					"priority": "no",
 					"text": "Gerencia la implementación de tus tareas con la funcionalidad de **Checklist**.",
 					"todoList": {
