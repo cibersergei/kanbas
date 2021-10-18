@@ -21,7 +21,7 @@
 							},
 							{
 								"done": false,
-								"title": "Salir a caminar",
+								"title": "Llamar a un amigo",
 								"weight": 1
 							}
 						]
@@ -45,7 +45,7 @@
 							},
 							{
 								"done": false,
-								"title": "Llamar a un amigo",
+								"title": "Salir a caminar",
 								"weight": 1
 							},
 							{
@@ -72,7 +72,7 @@
 							},
 							{
 								"done": false,
-								"title": "Planificar fin de semana",
+								"title": "Practicar lo aprendido a través de un juego",
 								"weight": 1
 							},
 							{
@@ -205,4 +205,4 @@
 			]
 		}
 	]
-}
+} 
