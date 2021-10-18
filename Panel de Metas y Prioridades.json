@@ -1,0 +1,208 @@
+{
+	"list": [
+		{
+			"title": "Comenzar",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "high",
+					"text": "**Hoy**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Aplicar un nuevo Consejo de Ciberseguridad y Educación",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Hacer Ejercicios / Actividad Física",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Salir con Amigos",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Empoderar"
+					],
+					"colorTag": "Prioridades Inicio de la Semana 📌"
+				},
+				{
+					"color": "aquamarine",
+					"colorTag": "Prioridades Mitad de Semana 📌",
+					"priority": "medium",
+					"text": "**Miércoles**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Aprender una nueva palabra",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Llamar a un amigo",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Aplicar una técnica para mejorar mi productividad",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Revitalizar"
+					]
+				},
+				{
+					"color": "white",
+					"colorTag": "Prioridades Final de la Semana 📌",
+					"priority": "high",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completar artículo de investigación",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Planificar fin de semana",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Organizar provisiones para la Fiesta",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Descontraer"
+					]
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjetas",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "Esta es tu primer tarjeta donde podés ingresar tus prioridades / actividades",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(0, 97%, 85%)",
+					"priority": "no",
+					"text": "Las tarjetas pueden representar tareas o elementos de información",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lemonchiffon",
+					"priority": "normal",
+					"text": "**Prioriza** tus actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(179, 69%, 79%)",
+					"priority": "no",
+					"text": "Mueve tus tarjetas entre las listas con un simple arrastrar y soltar.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"colorTag": "Importante",
+					"priority": "no",
+					"text": "Enfatiza una tarjeta particular utilizando las **Etiquetas**, **Etiquetas de Color**, & **Fondo de Color**.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Etiqueta"
+					]
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjeta",
+			"card": [
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "no",
+					"text": "Gerencia la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2021-11-02",
+					"dueDate": "2021-12-22",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![CiberSergei Logo](https://secureservercdn.net/166.62.104.68/jbh.747.myftpupload.com/wp-content/webpc-passthru.php?src=https://secureservercdn.net/166.62.104.68/jbh.747.myftpupload.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png&nocache=1?time=1634575205)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel de Metas y Prioridades, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
