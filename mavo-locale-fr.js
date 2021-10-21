@@ -1,4 +1,4 @@
-Mavo.Locale.register("fr", {
+Mavo.Locale.register("en", {
 	"second": "seconde",
 	"seconds": "secondes",
 	"minute": "minute",
