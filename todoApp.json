@@ -545,23 +545,23 @@
 	"task": [
 		{
 			"done": false,
-			"taskTitle": "Activa 2FA p/cuentas críticas"
+			"taskTitle": "Activar segundo factor de autenticación (2FA) para  mis cuentas críticas"
 		},
 		{
 			"done": false,
-			"taskTitle": "Actualizar mis apps"
+			"taskTitle": "Actualizar mis aplicaciones y programas a la última versión disponible"
 		},
 		{
 			"done": false,
-			"taskTitle": "Utilizar firewall & antivirus"
+			"taskTitle": "Utilizar firewall & antivirus en todos mis dispositivos"
 		},
 		{
 			"done": false,
-			"taskTitle": "Hacer backup de mis datos"
+			"taskTitle": "Hacer backup de mis datos importantes disponiendo de una copia local y otra remota"
 		},
 		{
 			"done": false,
-			"taskTitle": "Aprender sobre Phishing"
+			"taskTitle": "Aprender sobre cómo prevenirse de las últimas técnicas de Phishing y Ransomware"
 		}
 	]
 }
