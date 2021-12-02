@@ -1,0 +1,183 @@
+{
+	"list": [
+		{
+			"title": "Comenzar",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "high",
+					"text": "**Actividad 1**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Detallar actividad",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Empoderar"
+					]
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "medium",
+					"text": "**Actividad 2**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Detallar actividad",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Revitalizar"
+					]
+				},
+				{
+					"color": "white",
+					"priority": "high",
+					"text": "**Actividad 3**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Detallar actividad",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [
+						"Descontraer"
+					]
+				}
+			]
+		},
+		{
+			"title": "Prioriza tus actividades",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "Enumera las tareas que tienes y, ya sea con una puntuación de 1 al 10, o un código de colores, ejecútalas y cúmplelas.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lemonchiffon",
+					"priority": "no",
+					"text": "Te comparto 3 pasos para ayudarte a priorizar cuando todo parece importante:",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "1. Tené una lista completa",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "2. Identificá lo que es realmente importante",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "3. Priorizá en función de la importancia y la urgencia",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "lightpink",
+					"priority": "no",
+					"text": "Mueve tus tarjetas entre las listas con un simple arrastrar y soltar.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"colorTag": "Importante",
+					"priority": "no",
+					"text": "Enfatiza una tarjeta particular utilizando las **Etiquetas**, **Etiquetas de Color**, & **Fondo de Color**.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Etiqueta"
+					]
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjetas",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Gerencia la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2021-11-02",
+					"dueDate": "2021-12-22",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![CiberSergei Logo](https://secureservercdn.net/166.62.104.68/jbh.747.myftpupload.com/wp-content/webpc-passthru.php?src=https://secureservercdn.net/166.62.104.68/jbh.747.myftpupload.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png&nocache=1?time=1634575205)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel de Metas y Prioridades, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
