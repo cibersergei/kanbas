@@ -1,0 +1,51 @@
+{
+	"decision": [
+		{
+			"decision": "Debería practicar Seguridad Digital todos los días?",
+			"pro": [
+				{
+					"argument": "Protege mi identidad digital",
+					"weight": 1
+				},
+				{
+					"argument": "Mantiene mi información, datos y dispositivos privados y seguros",
+					"weight": 1
+				},
+				{
+					"argument": "Me protege contra fraudes y estafas por parte de ciberdelincuentes",
+					"weight": 1
+				},
+				{
+					"argument": "Proporciona la disponibilidad que necesito al resguardarme de ataques de denegación de servicio",
+					"weight": 1
+				},
+				{
+					"argument": "Mantiene mis dispositivos limpios contra virus, gusanos, software espía y otros programas no deseados.",
+					"weight": 1
+				}
+			],
+			"con": [
+				{
+					"argument": "No preciso protegerme porque no me pasará nada a mí",
+					"weight": 1
+				},
+				{
+					"argument": "Tengo muchas cosas para hacer",
+					"weight": 1
+				},
+				{
+					"argument": "No tengo los recursos necesarios (ej.: tiempo, dinero) para dedicar a esto",
+					"weight": 1
+				},
+				{
+					"argument": "Es un asunto aburrido",
+					"weight": 1
+				},
+				{
+					"argument": "No entiendo como esto me agregará valor para alcanzar mis metas",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
