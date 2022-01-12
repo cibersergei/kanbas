@@ -1,0 +1,194 @@
+{
+	"list": [
+		{
+			"title": "Comenzar",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Acciones sobre Ingeniería Social**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Descarta cualquier solicitud de información personal o contraseñas:** nadie debería ponerse en contacto contigo para obtener tu información personal por correo electrónico, mensaje de red social o llamada telefónica sin que lo hayas solicitado. Si te lo piden, es una estafa.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Investiga las fuentes:** siempre ten cuidado con los mensajes no solicitados. Verifica los links recibidos (enlaces a un sitio) y si la persona que te envía un correo electrónico o mensaje de ayuda son reales y provienen de una organización legítima, antes de comprometerte a enviar algo.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Protege tus dispositivos:** instala, mantén y actualiza periódicamente tu software antivirus, firewall y filtros de correo electrónico. Configura tus actualizaciones automáticas si podés, y solo accede a sitios web seguros. Considera también utilizar una Red Privada Virtual (VPN).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": "Crítico! 🔥  "
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**Acciones sobre Credenciales Comprometidas**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Crea y utiliza contraseñas robustas únicas**: para cada una de las cuentas de acceso que posees en el mundo digital es necesario utilizar contraseñas complejas, difíciles de adivinar y que no hayan sido divulgadas en filtraciones de datos previas. Para facilitar esta tarea que no es sencilla, utiliza un gestor de contraseñas.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Activa un segundo factor de autenticación (2FA):** además de utilizar para verificar tu identidad algo sabes (i.e: contraseña), utilizas algo que tienes (i.e: código de acceso de tu celular). De esta forma, si una contraseña es robada, adivinada o incluso suplantada, ya no es suficiente para dar acceso a un intruso.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Elimina tus cuentas antiguas o inactivas:** es posible que te hayas olvidado de esa antigua cuenta de email, red social o servicio de algunos años atrás, pero un ciberdelincuente aún podría ingresar y usar tu nombre para tratar de obtener información de tu familia, amigos y otros contactos. Revisá tus cuentas , eliminá lo que ya no usas, y configura estrictas medidas de seguridad para las cuentas que deseas conservar.",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": "Crítico! 💣 "
+				},
+				{
+					"color": "white",
+					"priority": "high",
+					"text": "**Acciones sobre Phishing**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Sospecha de mensajes urgentes**: siempre sospechar de mensajes urgentes que te presionan, o mensajes que apelan a tus emociones para chantajearte.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Verifica el remitente del correo electrónico:** mira al remitente del correo para identificar si la dirección electrónica no posee un nombre de dominio sospechoso. Ante la duda, verifica la identidad del mismo usando otro canal de comunicación pre-existente como el teléfono.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Borra los mensajes sospechosos, reporta el phishing y mantente alerta**: borrar todos los email de phishing que identifiques y reporta esta situación a tu equipo de seguridad, tecnología o algún otro especialista. Por sobre todo, sé cauteloso y mantente alerta ¡Actualízate periodicamente sobre las últimas tecnologías y amenazas emergentes del mundo digital!",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": " Importante! 🧨"
+				}
+			]
+		},
+		{
+			"title": "Prioriza tus actividades",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "Con base en el Principio de Pareto o Regla 80/20, ahora podemos comprobar que los 3 principales vectores de ataque que representan el 80% de las filtraciones de datos son **la Ingeniería Social, Credenciales Comprometidas y el Phishing**. ",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lemonchiffon",
+					"priority": "no",
+					"text": "A tu izquierda encontrarás una sugerencia de tarjetas y lista de acciones para contrarrestar estas 3 principales amenazas. Te invito a que explores las mismas y las implementes.  También podrás ajustar las mismas, acompañar su estado de implementación y actualizarlas según necesites.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lightpink",
+					"priority": "no",
+					"text": "Si precisás, podés mover tus tarjetas entre las listas con un simple arrastrar y soltar.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"colorTag": "Importante",
+					"priority": "no",
+					"text": "Enfatiza una tarjeta particular utilizando las **Etiquetas**, **Etiquetas de Color**, & **Fondo de Color**.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Etiqueta"
+					]
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjetas",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Gerencia la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2021-11-02",
+					"dueDate": "2021-12-22",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel de Pareto 80, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
