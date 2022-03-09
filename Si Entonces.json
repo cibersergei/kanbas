@@ -1,0 +1,185 @@
+{
+	"list": [
+		{
+			"title": "Comenzar",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Proteger mi identidad**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Si** / Cuando tenga que ingresar o actualizar contraseñas y datos confidenciales de mis cuentas críticas de email, homebanking, redes sociales y otros servicios, \n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Entonces**, seré cauteloso para no revelar esta información a nadie, utilizaré contraseñas únicas fuertes para cada cuenta. En la medida de lo posible, utilizaré autenticación de dos factores (2FA) o biométrica. No guardaré esta información apesar que los sitios, apps o navegador me ofrezcan recordar las mismas, y utilizaré un gestor de contraseñas para facilitar esta gestión.",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": "Ejemplo 1"
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**Actualización de software**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Si** recibo una notificación para actualizar mi software o aplicativos, ",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Entonces** guardaré los documentos en los que estoy trabajando, y priorizaré la ejecución de esta actualización. No dejaré de ejecutar esto en el mismo día, sabiendo que no es bueno ni seguro dejar para mañana lo que puedo y tengo que hacer hoy. En la medida de lo posible, configuraré para disponer de actualizaciones automáticas en mi software antivirus, firewall y demás programas y aplicaciones que utilizo.",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": "Ejemplo 2"
+				},
+				{
+					"color": "white",
+					"colorTag": "Ejemplo 3",
+					"priority": "no",
+					"text": "**Bloqueo de dispositivos**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Si** / Cuando que me levante de mi mesa de trabajo (mismo que la deje desatendida por unos segundos), ",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Entonces** bloquearé la computadora con una contraseña, y mi tableta y celular con un código de acceso seguro. También, llevaré conmigo el teléfono y otros artículos portátiles o de valor, o los guardaré bajo llave.",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"title": "Guía",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "Desarrolla un entendimiento claro de los desafíos potenciales que tienes y luego planifica con anticipación lo que harás si surge el desafío.\n\n",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Si (o cuando) [___situación__], entonces haré [___comportamiento__]**",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "lemonchiffon",
+					"priority": "no",
+					"text": "Reflexiona sobre una tentación a la que te cueste resistir o cuando tiendes a perder impulso en el camino hacia una meta. ¿Cuál es el principal obstáculo para cultivar el resultado que deseas?\n¿Puedes formular un plan “Si Entonces” para ayudar?\nRecuerda que al establecer una meta, debes especificar no solo lo que harás, sino también dónde y cuándo lo harás. Debes ser específico sobre el \"cómo\" y el \"qué\".",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lightpink",
+					"priority": "no",
+					"text": "Podés crear nuevas tarjetas presionando 'Editar' del Panel superior. \nSi precisás, podés mover tus tarjetas entre las listas con un simple arrastrar y soltar.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"colorTag": "Nota",
+					"priority": "no",
+					"text": "Enfatiza una respuesta particular utilizando las **Etiquetas**, **Etiquetas de Color**, & **Fondo de Color**.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Etiqueta"
+					]
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjeta",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Administra la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2022-03-02",
+					"dueDate": "2022-12-02",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
