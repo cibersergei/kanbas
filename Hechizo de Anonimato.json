@@ -1,0 +1,198 @@
+{
+	"list": [
+		{
+			"title": "Comenzar",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Visualízate al final de tu vida. Has trabajado duro y has tenido éxito en el logro de tus objetivos.**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "¿Con quién estás en tu futuro fantástico?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Respuesta: ... ",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "¿Por qué serás recordado? ¿Cómo tocaste la vida de los demás?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Respuesta: ...",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Haz una lista de lo que te entusiasmó más acerca de esta increíble vida que has vivido.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Respuesta: ...",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": "Parte 1"
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**Visualízate nuevamente al final de tu vida. Has trabajado duro y has logrado tus objetivos, pero ahora la única persona que conoce tus logros eres tú.**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "¿Tu Futuro Fantástico fue el mismo esta vez? ¿O el elemento del anonimato cambió las cosas?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Respuesta: ...",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "¿Tu entusiasmo o energía por tu futuro fantástico aumentó o se redujo? En caso afirmativo, ¿cuál aspecto fue y por qué cree que es?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Respuesta: ...",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "¿Hacerte anónimo tuvo algún otro efecto en tu futuro fantástico? Reflexiona si el valor de proteger lo que más importa ha cambiado en algo por haberte hecho anónimo?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Respuesta: ...",
+								"weight": 1
+							}
+						]
+					},
+					"tag": [],
+					"colorTag": "Parte 2"
+				}
+			]
+		},
+		{
+			"title": "Prioriza tus actividades",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "De ahora en adelante y por el resto de tu vida nadie sabrá lo que estás haciendo. Nadie sabrá las cosas maravillosas que haces por los demás, nadie sabrá lo rico que eres, nadie sabrá lo exitoso que eres, a cuántas personas ayudas, nadie excepto tú sabrás las cosas que haces. En un mundo en el que te han lanzado un hechizo de anonimato, **¿qué harías?**",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lemonchiffon",
+					"priority": "no",
+					"text": "A tu izquierda encontrarás 2 tarjetas (Parte 1 y Parte 2) que tendrás que responder y reflexionar para ayudarte a identificar y proteger lo que más importa.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "lightpink",
+					"priority": "no",
+					"text": "Si precisás, podés mover tus tarjetas entre las listas con un simple arrastrar y soltar.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"colorTag": "Nota",
+					"priority": "no",
+					"text": "Enfatiza una respuesta particular utilizando las **Etiquetas**, **Etiquetas de Color**, & **Fondo de Color**.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Etiqueta"
+					]
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjetas",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Administra la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2022-03-02",
+					"dueDate": "2022-12-02",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
