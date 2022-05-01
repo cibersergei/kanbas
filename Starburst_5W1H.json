@@ -1,0 +1,227 @@
+{
+	"list": [
+		{
+			"title": "CONCIENTIZACIÓN",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Who (Quién)**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Para quién está dirigida la Campaña?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Quién estará involucrado en la iniciativa?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Quién dará el soporte necesario para que la iniciativa sea un éxito?",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**What (Qué)**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Qué estamos buscando como resultado de esta iniciativa?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Qué es lo más importante que los usuarios aprendan?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Qué aspectos tenemos que mejorar con relación de la iniciativa anterior?",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "**How (Cómo)**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Cómo vamos a obtener los recursos financieros necesarios ?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Cómo vamos a incentivar a los usuarios?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Cómo vamos a manejar la falta de retorno de los usuarios?",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"title": "DE USUARIOS",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "**Where (Dónde)**\n",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Dónde publicaremos los resultados alcanzados?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Dónde los usuarios encontrarán los materiales de ayuda?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Dónde estarán los facilitadores cuando hacemos los ejercicios de simulación?",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "lemonchiffon",
+					"priority": "no",
+					"text": "**When (Cuándo)**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Cuándo es el mejor momento para lanzar la iniciativa?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Cuándo sabremos que tenemos que cerrar la campaña?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Cuándo obtendremos las métricas relevantes para el negocio?",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "lightpink",
+					"priority": "no",
+					"text": "**Why (Por qué)**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Por qué los usuarios van a elegir participar de la iniciativa?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Por qué estamos teniendo tanto retrabajo?",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Por qué los usuarios siempre tienen el mismo tipo de comportamiento ante este tipo de amenaza?",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjeta",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Administra la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2022-03-02",
+					"dueDate": "2022-12-02",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
