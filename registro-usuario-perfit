@@ -1,0 +1,73 @@
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+  
+  <style type="text/css">
+
+/* Estilos generales */
+
+body {
+    background: #EEE;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para Opt-In personalizado */
+
+.p-custom .p-inline .p-optin {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Responsive design */
+
+@media (min-width: 992px) {
+    .p-custom .p-optin .p-header {
+        font-size: 36px;
+    }
+}
+
+@media (max-width: 736px) {
+    .p-custom .p-optin .p-body {
+        padding: 40px 20px;
+    }
+    .p-custom .p-optin .p-header {
+        padding-left: 20px;
+    }
+    .p-custom .p-optin button {
+        width: 100%;
+    }
+}
+
+</style>
+
+  
+<div class="p-custom">
+
+    <!-- Inicio del Optin-In -->
+    <div id="optin-RRW3PEsC" data-type="inline"></div>
+    <link rel="stylesheet" type="text/css" href="https://optin.myperfit.com/res/css/cibersergei/RRW3PEsC.css">
+    <script type="text/javascript" src="https://optin.myperfit.com/res/css/cibersergei/RRW3PEsC.js"></script>
+    <!-- Fin del Optin-In -->
+
+</div>
+
+<script>
+    $(document).ready(function () {
+ 
+var valor = "Hola11111";
+ $('input[name="fields[3]"]').val(valor);     
+ $('input[name="fields[1]"]').val('Hola2');          $('input[name="fields[2]"]').val('Hola3'); $('input[name="fields[10]"]').val('Hola4');
+      
+
+$('input[type="checkbox"').removeAttr('checked');      
+
+     
+   
+//$("button").click();    
+      
+     
+      
+    });
+</script>
+
