@@ -72,13 +72,14 @@ body {
 <script>
     $(document).ready(function () {
  
-var valor = "Hola11111";
+const urlParams = new URLSearchParams(window.location.search)
+
+for (const value of urlParams.values()) {
+    var valor = value;
+}
  $('input[name="fields[3]"]').val(valor);     
- $('input[name="fields[1]"]').val('Hola2');          $('input[name="fields[2]"]').val('Hola3'); $('input[name="fields[10]"]').val('Hola4');
-      
-
-$('input[type="checkbox"').removeAttr('checked');      
-
+ $('input[name="fields[1]"]').val(valor);          
+ $('input[name="fields[2]"]').val(''); 
      
    
 $("button").click();    
