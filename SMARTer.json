@@ -1,0 +1,182 @@
+{
+	"list": [
+		{
+			"title": "Crea tus metas",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Meta 1**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Describe cada una de sus características\nEspecífico:  \nMedible: \nAlcanzable: \nRelevante: \nLimitado en el tiempo:\nEvaluado:\nRevisado:",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Ahora describe la meta completa:",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**Meta 2**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Describe cada una de sus características\nEspecífico:  \nMedible: \nAlcanzable: \nRelevante: \nLimitado en el tiempo:\nEvaluado:\nRevisado:",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Ahora describe la meta completa:",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "**Meta 3**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Describe cada una de sus características\nEspecífico:  \nMedible: \nAlcanzable: \nRelevante: \nLimitado en el tiempo:\nEvaluado:\nRevisado:",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Ahora describe la meta completa:",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"title": "**Cómo crear una meta**",
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "Estos son los pasos para usar este marco para crear, desarrollar y lograr una meta clara y significativa:",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "**Específico**: define una meta u objetivo claro y específico, que no de lugar a interpretaciones erróneas.\n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Medible**: asegúrate de que tu meta sea medible/cuantificable para realizar un seguimiento del progreso, lo que te ayuda a mantenerte enfocado y cumplir con los plazos.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Alcanzable**: crea una meta realista. No debe ser limitante, pero debe ser alcanzable.\n",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Relevante**: asegúrate de que tu meta te importe y se alinee con tus otras metas y las necesidades de tu organización.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Limitado en el tiempo**: asigna una fecha objetivo para que tu meta SMARTer no se pierda en las demandas del día a día.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Evaluado**: asegúrate de evaluar tus metas regularmente. Al evaluar tus objetivos todos los días, será mucho más probable que los alcances.",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "**Revisado**: revisa y reajusta el enfoque si es necesario. Si, por ejemplo, te encuentras persiguiendo una meta, pero estás chocando continuamente contra una pared, reajusta tu método y técnicas hasta que te encuentres cada vez más cerca de tus objetivos.",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjeta",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Administra la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2022-08-01",
+					"dueDate": "2023-06-30",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
