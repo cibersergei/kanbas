@@ -1,0 +1,176 @@
+{
+	"list": [
+		{
+			"title": "Identifica cada aspecto",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Fortalezas**\n¿Qué haces bien?\n¿Qué recursos únicos puedes utilizar?\n¿Qué ven los demás como tus puntos fuertes?",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**Oportunidades**\n¿Qué oportunidades se abren para ti?\n¿Qué tendencias podrías aprovechar?\n¿Cómo puedes convertir tus fortalezas en oportunidades?",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "**Debilidades**\n¿Qué podrías mejorar?\n¿Dónde tienes menos recursos que otros?\n¿Qué es probable que otros vean como debilidades?",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "**Amenazas**\n¿Qué amenazas podrían hacerte daño?\n¿Qué está haciendo tu competencia?\n¿Qué amenazas exponen tus debilidades?",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"title": "Todo sobre las Tarjeta",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "Administra la implementación de tus tareas con la funcionalidad de **Checklist**.",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"title": "Podés utilizar hipervínculos (links) en las listas, por ej, podés ir al sitio [CiberSergei](https://cibersergei.com/).",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2022-08-01",
+					"dueDate": "2023-06-30",
+					"text": "Establece una **Fecha de Inicio**, y/o **Fecha Final** para las actividades.",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "## Usa **Markdown** para:\n- *formatear* texto\n- insertar *imágenes*\n- agregar *links* y *listas* etc.\n![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"colorTag": "Crítico 🔥",
+					"priority": "no",
+					"text": "Podés **guardar (Save)** tu panel, **exportarlo (Export)** y compartirlo con tus colegas.\nQuerés trabajar con las Tarjetas de tus colegas? No hay problema. Simplemente **importa (Import)** su panel en este acelerador de CiberSergei.\nTambién, si precisas, podés **borrar (Clear)** completamente tu panel y comenzar de nuevo.",
+					"todoList": {
+						"task": []
+					},
+					"tag": [
+						"Panel",
+						"Funcionalidades"
+					]
+				}
+			]
+		}
+	]
+}
