@@ -108,10 +108,10 @@
 					"tag": []
 				}
 			],
-			"title": "Haciendo"
+			"title": "Ejecutando"
 		},
 		{
-			"title": "Realizado",
+			"title": "Finalizado",
 			"card": [
 				{
 					"color": "aquamarine",
