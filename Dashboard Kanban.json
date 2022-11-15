@@ -1,0 +1,163 @@
+{
+	"list": [
+		{
+			"title": "Para Hacer (To Do)",
+			"card": [
+				{
+					"color": "lemonchiffon",
+					"priority": "critical",
+					"text": "**Tarea 1**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(213, 87%, 88%)",
+					"priority": "critical",
+					"text": "**Tarea 2**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			]
+		},
+		{
+			"card": [
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "**Tarea 3**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "white",
+					"priority": "no",
+					"text": "**Tarea 4**",
+					"todoList": {
+						"task": [
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							},
+							{
+								"done": false,
+								"title": "Completa aquí",
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				}
+			],
+			"title": "Haciendo"
+		},
+		{
+			"title": "Realizado",
+			"card": [
+				{
+					"color": "aquamarine",
+					"priority": "no",
+					"text": "**Tarea 5**",
+					"todoList": {
+						"task": [
+							{
+								"done": true,
+								"title": "Primer Paso",
+								"weight": 1
+							},
+							{
+								"done": true,
+								"title": "Segundo Paso",
+								"weight": 4
+							},
+							{
+								"done": false,
+								"weight": 1
+							}
+						]
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(65, 100%, 63%)",
+					"priority": "no",
+					"startDate": "2022-08-01",
+					"dueDate": "2023-06-30",
+					"text": "**Tarea 6**",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				},
+				{
+					"color": "hsl(51, 94%, 75%)",
+					"priority": "no",
+					"text": "![Cibersergei Logo](https://cibersergei.com/wp-content/uploads/2021/01/CiberSergei-Logo-compressed.png)",
+					"todoList": {
+						"task": []
+					},
+					"tag": []
+				}
+			]
+		}
+	]
+}
