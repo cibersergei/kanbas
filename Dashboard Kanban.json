@@ -83,24 +83,8 @@
 								"done": true,
 								"title": "Completado en los 5 días de la semana",
 								"weight": 1
-							},
-							{
-								"done": true,
-								"title": "No navegar por sitios desconocidos",
-								"weight": 4
 							}
 						]
-					},
-					"tag": []
-				},
-				{
-					"color": "hsl(65, 100%, 63%)",
-					"priority": "no",
-					"startDate": "2022-08-01",
-					"dueDate": "2023-06-30",
-					"text": "**Tarea 6**",
-					"todoList": {
-						"task": []
 					},
 					"tag": []
 				},
