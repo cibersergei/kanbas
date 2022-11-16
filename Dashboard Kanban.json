@@ -6,22 +6,12 @@
 				{
 					"color": "lemonchiffon",
 					"priority": "critical",
-					"text": "**Tarea 1**",
+					"text": "Instala un Antivirus y actualízalo a la última versión para el próximo lunes.",
 					"todoList": {
 						"task": [
 							{
 								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
+								"title": "Completa los detalles aquí",
 								"weight": 1
 							}
 						]
@@ -31,22 +21,12 @@
 				{
 					"color": "hsl(213, 87%, 88%)",
 					"priority": "critical",
-					"text": "**Tarea 2**",
+					"text": "Habilita y utiliza una VPN para conectarte al trabajo desde tu casa los días de homeoffice.",
 					"todoList": {
 						"task": [
 							{
 								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
+								"title": "Completa los detalles aquí",
 								"weight": 1
 							}
 						]
@@ -60,22 +40,12 @@
 				{
 					"color": "hsl(51, 94%, 75%)",
 					"priority": "no",
-					"text": "**Tarea 3**",
+					"text": "Emplea contraseñas únicas fuertes y autenticación multi-factor para conectarte a tus cuentas de servicios financieros, nube y correo electrónico en el día de hoy.",
 					"todoList": {
 						"task": [
 							{
 								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
+								"title": "Completa los detalles aquí",
 								"weight": 1
 							}
 						]
@@ -85,22 +55,12 @@
 				{
 					"color": "white",
 					"priority": "no",
-					"text": "**Tarea 4**",
+					"text": "Realiza copias de respaldo (backup) semanales en el disco duro externo antes del jueves.",
 					"todoList": {
 						"task": [
 							{
 								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
-								"weight": 1
-							},
-							{
-								"done": false,
-								"title": "Completa aquí",
+								"title": "Completa los detalles aquí",
 								"weight": 1
 							}
 						]
@@ -116,22 +76,18 @@
 				{
 					"color": "aquamarine",
 					"priority": "no",
-					"text": "**Tarea 5**",
+					"text": "Ten cuidado a lo largo de esta semana mientras revisas tus correos electrónicos y navegas por internet para no ser víctima de phishing y estafas virtuales.",
 					"todoList": {
 						"task": [
 							{
 								"done": true,
-								"title": "Primer Paso",
+								"title": "Completado en los 5 días de la semana",
 								"weight": 1
 							},
 							{
 								"done": true,
-								"title": "Segundo Paso",
+								"title": "No navegar por sitios desconocidos",
 								"weight": 4
-							},
-							{
-								"done": false,
-								"weight": 1
 							}
 						]
 					},
